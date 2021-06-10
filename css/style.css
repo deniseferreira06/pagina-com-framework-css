@@ -1,0 +1,72 @@
+#grad  {
+  background-image: linear-gradient(55deg, tomato, purple, yellow, cyan);
+  padding: 20px;
+  width: auto;
+  font-family: Georgia, serif;
+}
+#grad1 {
+  background-image: linear-gradient(55deg, tomato, purple, yellow);
+  font-size: 30px;
+  font-family: serif;
+  font-style: oblique;
+}
+
+#font {
+  font-family: Jazz LET, fantasy;
+}
+#main{
+  margin: 0 auto;
+  background: #ffffffff;
+  opacity: 80%;
+  padding: 20px;
+}
+#tb{
+  margin-top: auto;
+  opacity: 80%;
+  padding: 20px;
+}
+.nav-item{
+  border-radius: 8px;
+}
+.nav-item:hover{
+  background-color: #F0F8FF;
+  opacity: 90%;
+}
+body{
+ background-image: url("../images/style.jpg") ;
+ min-height: 500px; 
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+h1{
+  font-family: Jazz LET, fantasy;
+  text-align: center;
+}
+h2{
+  padding: 10px;
+  width: auto;
+  font-family: Andale Mono, monospace;
+  font-style: oblique;
+  text-align: center;
+}
+h3{
+  padding: 10px;
+  width: auto;
+  font-family: Andale Mono, monospace;
+  font-style: oblique;
+  text-align: center;
+}
+h4{
+  font-family: Jazz LET, fantasy;
+  text-align: center;
+}
+
+label{
+  font-family:Luminari, fantasy;
+}
+
+footer#artista_footer{
+  margin-top: 100px;
+}
