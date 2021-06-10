@@ -1,11 +1,11 @@
 #grad  {
-  background-image: linear-gradient(55deg, tomato, purple, yellow, cyan);
+  background: linear-gradient(55deg, tomato, purple, yellow, cyan);
   padding: 20px;
   width: auto;
   font-family: Georgia, serif;
 }
 #grad1 {
-  background-image: linear-gradient(55deg, tomato, purple, yellow);
+  background: linear-gradient(55deg, tomato, purple, yellow);
   font-size: 30px;
   font-family: serif;
   font-style: oblique;
